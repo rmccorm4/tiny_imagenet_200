@@ -10,4 +10,5 @@
 # which is sourced everytime you ssh into thunder
 
 source module use /p/work2/projects/ryat/modules/modulefiles
+# These are useful modules for running matconvnet on Thunder with GPUs
 source module load git cuda jpeg cudnn matlab/R2017a
