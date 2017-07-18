@@ -11,4 +11,6 @@
 
 source module use /p/work2/projects/ryat/modules/modulefiles
 # These are useful modules for running matconvnet on Thunder with GPUs
+# DISCLAIMER: You will need to be on a GPU Thunder node (13-16) to
+#			  use GPUs as well as cuda/cudnn
 source module load git cuda jpeg cudnn matlab/R2017a
