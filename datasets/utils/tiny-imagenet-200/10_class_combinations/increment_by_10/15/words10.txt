@@ -1,0 +1,10 @@
+n02132136	brown bear, bruin, Ursus arctos
+n03544143	hourglass
+n09256479	coral reef
+n02509815	lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+n04074963	remote control, remote
+n03796401	moving van
+n02669723	academic gown, academic robe, judge's robe
+n02948072	candle, taper, wax light
+n01910747	jellyfish
+n04532106	vestment

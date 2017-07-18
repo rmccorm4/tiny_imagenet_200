@@ -1,0 +1,10 @@
+n04540053	volleyball
+n09246464	cliff, drop, drop-off
+n03201208	dining table, board
+n02364673	guinea pig, Cavia cobaya
+n01443537	goldfish, Carassius auratus
+n02437312	Arabian camel, dromedary, Camelus dromedarius
+n02486410	baboon
+n02321529	sea cucumber, holothurian
+n02281406	sulphur butterfly, sulfur butterfly
+n04254777	sock

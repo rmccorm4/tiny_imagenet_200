@@ -1,0 +1,15 @@
+n01443537	goldfish, Carassius auratus
+n02437312	Arabian camel, dromedary, Camelus dromedarius
+n02486410	baboon
+n02321529	sea cucumber, holothurian
+n02281406	sulphur butterfly, sulfur butterfly
+n04254777	sock
+n03393912	freight car
+n02481823	chimpanzee, chimp, Pan troglodytes
+n04456115	torch
+n01855672	goose
+n02843684	birdhouse
+n03770439	miniskirt, mini
+n04259630	sombrero
+n02206856	bee
+n04023962	punching bag, punch bag, punching ball, punchball

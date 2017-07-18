@@ -1,0 +1,10 @@
+n03937543	pill bottle
+n03599486	jinrikisha, ricksha, rickshaw
+n04560804	water jug
+n04118538	rugby ball
+n03649909	lawn mower, mower
+n04149813	scoreboard
+n02415577	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+n04532670	viaduct
+n03980874	poncho
+n07720875	bell pepper

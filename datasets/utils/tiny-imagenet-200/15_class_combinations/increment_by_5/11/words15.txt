@@ -1,0 +1,15 @@
+n03891332	parking meter
+n04146614	school bus
+n03838899	oboe, hautboy, hautbois
+n09428293	seashore, coast, seacoast, sea-coast
+n04265275	space heater
+n02058221	albatross, mollymawk
+n07695742	pretzel
+n03983396	pop bottle, soda bottle
+n02823428	beer bottle
+n01629819	European fire salamander, Salamandra salamandra
+n09193705	alp
+n02795169	barrel, cask
+n02988304	CD player
+n04465501	tractor
+n02950826	cannon

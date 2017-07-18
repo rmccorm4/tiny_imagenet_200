@@ -1,0 +1,15 @@
+n02125311	cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+n07734744	mushroom
+n04356056	sunglasses, dark glasses, shades
+n04285008	sports car, sport car
+n04501370	turnstile
+n03930313	picket fence, paling
+n04070727	refrigerator, icebox
+n04328186	stopwatch, stop watch
+n02837789	bikini, two-piece
+n02814533	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+n04487081	trolleybus, trolley coach, trackless trolley
+n03100240	convertible
+n04376876	syringe
+n07711569	mashed potato
+n03617480	kimono

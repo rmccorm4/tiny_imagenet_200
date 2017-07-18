@@ -1,0 +1,10 @@
+n04265275	space heater
+n03983396	pop bottle, soda bottle
+n09193705	alp
+n04465501	tractor
+n03977966	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n02268443	dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+n02403003	ox
+n02094433	Yorkshire terrier
+n03355925	flagpole, flagstaff
+n01950731	sea slug, nudibranch

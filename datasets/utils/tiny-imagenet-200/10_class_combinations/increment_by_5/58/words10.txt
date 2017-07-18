@@ -1,0 +1,10 @@
+n02481823	chimpanzee, chimp, Pan troglodytes
+n04456115	torch
+n01855672	goose
+n02843684	birdhouse
+n03770439	miniskirt, mini
+n04259630	sombrero
+n02206856	bee
+n04023962	punching bag, punch bag, punching ball, punchball
+n04133789	sandal
+n02125311	cougar, puma, catamount, mountain lion, painter, panther, Felis concolor

@@ -1,0 +1,10 @@
+n03891332	parking meter
+n09428293	seashore, coast, seacoast, sea-coast
+n07695742	pretzel
+n01629819	European fire salamander, Salamandra salamandra
+n02988304	CD player
+n03179701	desk
+n01945685	slug
+n02002724	black stork, Ciconia nigra
+n04311004	steel arch bridge
+n02791270	barbershop

@@ -1,0 +1,20 @@
+n04133789	sandal
+n02395406	hog, pig, grunter, squealer, Sus scrofa
+n02268443	dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+n04562935	water tower
+n02190166	fly
+n04285008	sports car, sport car
+n07615774	ice lolly, lolly, lollipop, popsicle
+n01770393	scorpion
+n04179913	sewing machine
+n02793495	barn
+n04328186	stopwatch, stop watch
+n01774384	black widow, Latrodectus mactans
+n02791270	barbershop
+n07747607	orange
+n03250847	drumstick
+n03100240	convertible
+n01784675	centipede
+n01950731	sea slug, nudibranch
+n03763968	military uniform
+n06596364	comic book

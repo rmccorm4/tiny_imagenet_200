@@ -1,0 +1,10 @@
+n03404251	fur coat
+n03796401	moving van
+n02917067	bullet train, bullet
+n02669723	academic gown, academic robe, judge's robe
+n04486054	triumphal arch
+n02948072	candle, taper, wax light
+n01984695	spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
+n01910747	jellyfish
+n02927161	butcher shop, meat market
+n04532106	vestment

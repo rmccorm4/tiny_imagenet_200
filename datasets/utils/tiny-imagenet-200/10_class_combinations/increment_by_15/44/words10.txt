@@ -1,0 +1,10 @@
+n01774750	tarantula
+n03902125	pay-phone, pay-station
+n02423022	gazelle
+n03160309	dam, dike, dyke
+n03126707	crane
+n04560804	water jug
+n02793495	barn
+n04149813	scoreboard
+n03444034	go-kart
+n03980874	poncho

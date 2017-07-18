@@ -1,0 +1,15 @@
+n01855672	goose
+n04398044	teapot
+n04465501	tractor
+n04486054	triumphal arch
+n03424325	gasmask, respirator, gas helmet
+n02206856	bee
+n03584254	iPod
+n04596742	wok
+n02927161	butcher shop, meat market
+n03126707	crane
+n07734744	mushroom
+n04251144	snorkel
+n02002724	black stork, Ciconia nigra
+n04366367	suspension bridge
+n03026506	Christmas stocking

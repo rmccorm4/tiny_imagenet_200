@@ -1,0 +1,10 @@
+n07614500	ice cream, icecream
+n01944390	snail
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack
+n01774750	tarantula
+n02233338	cockroach, roach
+n07583066	guacamole
+n03902125	pay-phone, pay-station
+n02666196	abacus
+n01882714	koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+n02423022	gazelle

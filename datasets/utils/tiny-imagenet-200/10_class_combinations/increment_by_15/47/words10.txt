@@ -1,0 +1,10 @@
+n07753592	banana
+n03637318	lampshade, lamp shade
+n02165456	ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle
+n03584254	iPod
+n02977058	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+n07615774	ice lolly, lolly, lollipop, popsicle
+n04371430	swimming trunks, bathing trunks
+n01983481	American lobster, Northern lobster, Maine lobster, Homarus americanus
+n03042490	cliff dwelling
+n02231487	walking stick, walkingstick, stick insect

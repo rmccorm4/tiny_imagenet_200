@@ -1,0 +1,10 @@
+n07749582	lemon
+n03970156	plunger, plumber's helper
+n02132136	brown bear, bruin, Ursus arctos
+n03854065	organ, pipe organ
+n03544143	hourglass
+n03804744	nail
+n09256479	coral reef
+n02099712	Labrador retriever
+n02509815	lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+n04008634	projectile, missile

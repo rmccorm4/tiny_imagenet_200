@@ -1,0 +1,10 @@
+n07920052	espresso
+n02279972	monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+n04507155	umbrella
+n07875152	potpie
+n07614500	ice cream, icecream
+n01944390	snail
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack
+n01774750	tarantula
+n02233338	cockroach, roach
+n07583066	guacamole

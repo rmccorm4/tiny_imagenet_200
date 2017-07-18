@@ -1,0 +1,10 @@
+n02364673	guinea pig, Cavia cobaya
+n02437312	Arabian camel, dromedary, Camelus dromedarius
+n02321529	sea cucumber, holothurian
+n04254777	sock
+n02481823	chimpanzee, chimp, Pan troglodytes
+n01855672	goose
+n03770439	miniskirt, mini
+n02206856	bee
+n04133789	sandal
+n07734744	mushroom

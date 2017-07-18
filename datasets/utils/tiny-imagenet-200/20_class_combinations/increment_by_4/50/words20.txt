@@ -1,0 +1,20 @@
+n04008634	projectile, missile
+n07583066	guacamole
+n02481823	chimpanzee, chimp, Pan troglodytes
+n03637318	lampshade, lamp shade
+n02795169	barrel, cask
+n02917067	bullet train, bullet
+n02423022	gazelle
+n03770439	miniskirt, mini
+n03814639	neck brace
+n03179701	desk
+n01984695	spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
+n02814860	beacon, lighthouse, beacon light, pharos
+n04133789	sandal
+n02395406	hog, pig, grunter, squealer, Sus scrofa
+n02268443	dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+n04562935	water tower
+n02190166	fly
+n04285008	sports car, sport car
+n07615774	ice lolly, lolly, lollipop, popsicle
+n01770393	scorpion

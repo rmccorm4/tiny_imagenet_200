@@ -1,0 +1,10 @@
+n04328186	stopwatch, stop watch
+n02837789	bikini, two-piece
+n02814533	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+n04487081	trolleybus, trolley coach, trackless trolley
+n03100240	convertible
+n04376876	syringe
+n07711569	mashed potato
+n03617480	kimono
+n01742172	boa constrictor, Constrictor constrictor
+n02085620	Chihuahua

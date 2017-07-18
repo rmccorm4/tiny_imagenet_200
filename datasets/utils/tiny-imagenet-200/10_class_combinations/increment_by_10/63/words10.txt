@@ -1,0 +1,10 @@
+n04456115	torch
+n02843684	birdhouse
+n04259630	sombrero
+n04023962	punching bag, punch bag, punching ball, punchball
+n02125311	cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+n04356056	sunglasses, dark glasses, shades
+n04501370	turnstile
+n04070727	refrigerator, icebox
+n02837789	bikini, two-piece
+n04487081	trolleybus, trolley coach, trackless trolley

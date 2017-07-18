@@ -1,0 +1,15 @@
+n02056570	king penguin, Aptenodytes patagonica
+n03983396	pop bottle, soda bottle
+n04008634	projectile, missile
+n07583066	guacamole
+n02481823	chimpanzee, chimp, Pan troglodytes
+n03637318	lampshade, lamp shade
+n02795169	barrel, cask
+n02917067	bullet train, bullet
+n02423022	gazelle
+n03770439	miniskirt, mini
+n03814639	neck brace
+n03179701	desk
+n01984695	spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
+n02814860	beacon, lighthouse, beacon light, pharos
+n04133789	sandal

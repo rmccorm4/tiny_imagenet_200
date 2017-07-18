@@ -1,0 +1,62 @@
+# AUTHOR: Ryan McCormick (2017 ATR Center Intern)
+#
+# DISCLAIMER: These are some examples of tests I ran with different increments
+#			  using the CIFAR_LENET architecture for cifar-10 and are not 
+#			  absolute, you'd be better off running the different increments
+#			  yourself on your network to see results. This is just for 
+#			  reference.
+
+###############################################################################
+increment_by_10
+###############################################################################
+
+('Best class set was:', 4)
+('Best error was:', 0.352)
+
+n04099969   rocking chair, rocker
+n02279972   monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+n07875152   potpie
+n01944390   snail
+n01774750   tarantula
+n07583066   guacamole
+n02666196   abacus
+n02423022   gazelle
+n03424325   gasmask, respirator, gas helmet
+n02814860   beacon, lighthouse, beacon light, pharos
+
+
+###############################################################################
+increment_by_5
+###############################################################################
+
+('Best class set was:', 141)
+('Best error was:', 0.332)
+
+n03388043   fountain
+n02791270   barbershop
+n03355925   flagpole, flagstaff
+n02892201   brass, memorial tablet, plaque
+n01698640   American alligator, Alligator mississipiensis
+n01950731   sea slug, nudibranch
+n07768694   pomegranate
+n02410509   bison
+n02226429   grasshopper, hopper
+n02699494   altar
+
+###############################################################################
+increment_by_15
+###############################################################################
+
+('Best class set was:', 16)
+('Best error was:', 0.356)
+
+n04146614   school bus 
+n04265275   space heater
+n03983396   pop bottle, soda bottle
+n09193705   alp 
+n04465501   tractor
+n03977966   police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n02268443   dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+n02403003   ox  
+n02094433   Yorkshire terrier
+n03355925   flagpole, flagstaff

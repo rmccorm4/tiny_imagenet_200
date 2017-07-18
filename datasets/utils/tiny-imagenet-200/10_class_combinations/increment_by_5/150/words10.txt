@@ -1,0 +1,10 @@
+n07747607	orange
+n03255030	dumbbell
+n02480495	orangutan, orang, orangutang, Pongo pygmaeus
+n01917289	brain coral
+n03763968	military uniform
+n01768244	trilobite
+n02808440	bathtub, bathing tub, bath, tub
+n02129165	lion, king of beasts, Panthera leo
+n02788148	bannister, banister, balustrade, balusters, handrail
+n02113799	standard poodle

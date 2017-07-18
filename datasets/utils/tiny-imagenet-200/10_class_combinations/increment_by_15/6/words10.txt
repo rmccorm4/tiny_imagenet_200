@@ -1,0 +1,10 @@
+n01641577	bullfrog, Rana catesbeiana
+n03838899	oboe, hautboy, hautbois
+n02058221	albatross, mollymawk
+n02823428	beer bottle
+n02795169	barrel, cask
+n02950826	cannon
+n04596742	wok
+n03014705	chest
+n01770393	scorpion
+n03388043	fountain

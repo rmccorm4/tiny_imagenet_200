@@ -1,0 +1,10 @@
+n03804744	nail
+n02509815	lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+n03404251	fur coat
+n02669723	academic gown, academic robe, judge's robe
+n01984695	spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
+n04532106	vestment
+n04366367	suspension bridge
+n02730930	apron
+n07747607	orange
+n01917289	brain coral

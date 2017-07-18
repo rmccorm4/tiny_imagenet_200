@@ -1,0 +1,10 @@
+n02056570	king penguin, Aptenodytes patagonica
+n09332890	lakeside, lakeshore
+n04398044	teapot
+n03400231	frying pan, frypan, skillet
+n02395406	hog, pig, grunter, squealer, Sus scrofa
+n02074367	dugong, Dugong dugon
+n02123394	Persian cat
+n03089624	confectionery, confectionary, candy store
+n01784675	centipede
+n03976657	pole

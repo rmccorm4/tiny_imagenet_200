@@ -1,0 +1,10 @@
+n07875152	potpie
+n01944390	snail
+n01774750	tarantula
+n07583066	guacamole
+n02666196	abacus
+n02423022	gazelle
+n03424325	gasmask, respirator, gas helmet
+n02814860	beacon, lighthouse, beacon light, pharos
+n03126707	crane
+n02190166	fly

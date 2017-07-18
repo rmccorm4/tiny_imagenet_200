@@ -1,0 +1,10 @@
+n02791270	barbershop
+n03355925	flagpole, flagstaff
+n02892201	brass, memorial tablet, plaque
+n01698640	American alligator, Alligator mississipiensis
+n01950731	sea slug, nudibranch
+n07768694	pomegranate
+n02410509	bison
+n02226429	grasshopper, hopper
+n02699494	altar
+n02909870	bucket, pail

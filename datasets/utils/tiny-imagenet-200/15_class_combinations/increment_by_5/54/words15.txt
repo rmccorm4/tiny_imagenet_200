@@ -1,0 +1,15 @@
+n07583066	guacamole
+n03902125	pay-phone, pay-station
+n02666196	abacus
+n01882714	koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+n02423022	gazelle
+n02099601	golden retriever
+n03424325	gasmask, respirator, gas helmet
+n03160309	dam, dike, dyke
+n02814860	beacon, lighthouse, beacon light, pharos
+n03937543	pill bottle
+n03126707	crane
+n03599486	jinrikisha, ricksha, rickshaw
+n02190166	fly
+n04560804	water jug
+n03026506	Christmas stocking

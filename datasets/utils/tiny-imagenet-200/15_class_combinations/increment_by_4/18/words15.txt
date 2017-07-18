@@ -1,0 +1,15 @@
+n02364673	guinea pig, Cavia cobaya
+n03733131	maypole
+n09428293	seashore, coast, seacoast, sea-coast
+n03804744	nail
+n01944390	snail
+n02321529	sea cucumber, holothurian
+n02056570	king penguin, Aptenodytes patagonica
+n03983396	pop bottle, soda bottle
+n04008634	projectile, missile
+n07583066	guacamole
+n02481823	chimpanzee, chimp, Pan troglodytes
+n03637318	lampshade, lamp shade
+n02795169	barrel, cask
+n02917067	bullet train, bullet
+n02423022	gazelle

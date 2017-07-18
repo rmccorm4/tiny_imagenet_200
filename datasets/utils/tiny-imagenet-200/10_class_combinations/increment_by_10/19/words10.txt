@@ -1,0 +1,10 @@
+n04507155	umbrella
+n07614500	ice cream, icecream
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack
+n02233338	cockroach, roach
+n03902125	pay-phone, pay-station
+n01882714	koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+n02099601	golden retriever
+n03160309	dam, dike, dyke
+n03937543	pill bottle
+n03599486	jinrikisha, ricksha, rickshaw

@@ -1,0 +1,10 @@
+n02948072	candle, taper, wax light
+n01984695	spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish
+n01910747	jellyfish
+n02927161	butcher shop, meat market
+n04532106	vestment
+n04562935	water tower
+n03670208	limousine, limo
+n04366367	suspension bridge
+n02906734	broom
+n04179913	sewing machine

@@ -1,0 +1,20 @@
+n09246464	cliff, drop, drop-off
+n02106662	German shepherd, German shepherd dog, German police dog, alsatian
+n04146614	school bus
+n03854065	organ, pipe organ
+n07875152	potpie
+n02437312	Arabian camel, dromedary, Camelus dromedarius
+n02963159	cardigan
+n02058221	albatross, mollymawk
+n02099712	Labrador retriever
+n01774750	tarantula
+n04254777	sock
+n02236044	mantis, mantid
+n01629819	European fire salamander, Salamandra salamandra
+n03404251	fur coat
+n02666196	abacus
+n01855672	goose
+n04398044	teapot
+n04465501	tractor
+n04486054	triumphal arch
+n03424325	gasmask, respirator, gas helmet

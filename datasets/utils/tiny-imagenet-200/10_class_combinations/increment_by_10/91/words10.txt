@@ -1,0 +1,10 @@
+n03977966	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n01945685	slug
+n03014705	chest
+n02403003	ox
+n04311004	steel arch bridge
+n03388043	fountain
+n03355925	flagpole, flagstaff
+n01698640	American alligator, Alligator mississipiensis
+n07768694	pomegranate
+n02226429	grasshopper, hopper

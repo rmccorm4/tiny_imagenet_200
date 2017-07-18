@@ -1,0 +1,20 @@
+n02099601	golden retriever
+n03424325	gasmask, respirator, gas helmet
+n03160309	dam, dike, dyke
+n02814860	beacon, lighthouse, beacon light, pharos
+n03937543	pill bottle
+n03126707	crane
+n03599486	jinrikisha, ricksha, rickshaw
+n02190166	fly
+n04560804	water jug
+n03026506	Christmas stocking
+n04118538	rugby ball
+n02793495	barn
+n03649909	lawn mower, mower
+n07579787	plate
+n04149813	scoreboard
+n03250847	drumstick
+n02415577	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+n03444034	go-kart
+n04532670	viaduct
+n06596364	comic book

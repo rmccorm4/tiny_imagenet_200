@@ -1,0 +1,10 @@
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack
+n07583066	guacamole
+n01882714	koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+n03424325	gasmask, respirator, gas helmet
+n03937543	pill bottle
+n02190166	fly
+n04118538	rugby ball
+n07579787	plate
+n02415577	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+n06596364	comic book

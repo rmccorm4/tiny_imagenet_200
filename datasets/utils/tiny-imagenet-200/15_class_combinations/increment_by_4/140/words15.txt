@@ -1,0 +1,15 @@
+n04417672	thatch, thatched roof
+n07579787	plate
+n02814533	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+n01983481	American lobster, Northern lobster, Maine lobster, Homarus americanus
+n02892201	brass, memorial tablet, plaque
+n02480495	orangutan, orang, orangutang, Pongo pygmaeus
+n03444034	go-kart
+n07711569	mashed potato
+n02999410	chain
+n02410509	bison
+n02808440	bathtub, bathing tub, bath, tub
+n01644900	tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+n02815834	beaker
+n03706229	magnetic compass
+n12267677	acorn

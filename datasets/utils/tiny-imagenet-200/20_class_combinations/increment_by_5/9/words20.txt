@@ -1,0 +1,20 @@
+n07920052	espresso
+n02279972	monarch, monarch butterfly, milkweed butterfly, Danaus plexippus
+n04507155	umbrella
+n07875152	potpie
+n07614500	ice cream, icecream
+n01944390	snail
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack
+n01774750	tarantula
+n02233338	cockroach, roach
+n07583066	guacamole
+n03902125	pay-phone, pay-station
+n02666196	abacus
+n01882714	koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+n02423022	gazelle
+n02099601	golden retriever
+n03424325	gasmask, respirator, gas helmet
+n03160309	dam, dike, dyke
+n02814860	beacon, lighthouse, beacon light, pharos
+n03937543	pill bottle
+n03126707	crane

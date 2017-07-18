@@ -1,0 +1,20 @@
+n04560804	water jug
+n04501370	turnstile
+n04597913	wooden spoon
+n04311004	steel arch bridge
+n02730930	apron
+n03649909	lawn mower, mower
+n02837789	bikini, two-piece
+n03089624	confectionery, confectionary, candy store
+n03355925	flagpole, flagstaff
+n03255030	dumbbell
+n02415577	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+n04376876	syringe
+n03042490	cliff dwelling
+n07768694	pomegranate
+n01768244	trilobite
+n03980874	poncho
+n02085620	Chihuahua
+n03837869	obelisk
+n02909870	bucket, pail
+n02113799	standard poodle

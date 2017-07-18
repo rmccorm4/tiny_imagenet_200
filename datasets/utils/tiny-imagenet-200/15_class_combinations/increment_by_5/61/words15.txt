@@ -1,0 +1,15 @@
+n09193705	alp
+n02795169	barrel, cask
+n02988304	CD player
+n04465501	tractor
+n02950826	cannon
+n03179701	desk
+n03977966	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n04596742	wok
+n01945685	slug
+n02268443	dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk
+n03014705	chest
+n02002724	black stork, Ciconia nigra
+n02403003	ox
+n01770393	scorpion
+n04311004	steel arch bridge

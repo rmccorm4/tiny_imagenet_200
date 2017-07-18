@@ -1,0 +1,10 @@
+n03854065	organ, pipe organ
+n09256479	coral reef
+n04008634	projectile, missile
+n03796401	moving van
+n04486054	triumphal arch
+n01910747	jellyfish
+n04562935	water tower
+n02906734	broom
+n04417672	thatch, thatched roof
+n03255030	dumbbell

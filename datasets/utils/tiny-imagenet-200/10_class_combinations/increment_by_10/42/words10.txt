@@ -1,0 +1,10 @@
+n02056570	king penguin, Aptenodytes patagonica
+n02236044	mantis, mantid
+n03637318	lampshade, lamp shade
+n04398044	teapot
+n03814639	neck brace
+n03584254	iPod
+n02395406	hog, pig, grunter, squealer, Sus scrofa
+n04251144	snorkel
+n07615774	ice lolly, lolly, lollipop, popsicle
+n02123394	Persian cat

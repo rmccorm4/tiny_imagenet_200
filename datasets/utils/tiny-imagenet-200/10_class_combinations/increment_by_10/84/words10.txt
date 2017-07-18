@@ -1,0 +1,10 @@
+n03424325	gasmask, respirator, gas helmet
+n02814860	beacon, lighthouse, beacon light, pharos
+n03126707	crane
+n02190166	fly
+n03026506	Christmas stocking
+n02793495	barn
+n07579787	plate
+n03250847	drumstick
+n03444034	go-kart
+n06596364	comic book

@@ -1,0 +1,10 @@
+n04149813	scoreboard
+n03250847	drumstick
+n02415577	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+n03444034	go-kart
+n04532670	viaduct
+n06596364	comic book
+n03980874	poncho
+n01644900	tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+n07720875	bell pepper
+n03447447	gondola
