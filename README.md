@@ -15,3 +15,7 @@ For example, if training on 200 classes doesn't give you satisfactory
 accuracy since there are only 500 training and 50 validation images per
 class, you might want to do 10 class or 15 class subsets, and this
 is what produce_files.sh is for.
+
+Most of the scripts can be found in datasets/utils/tiny-imagenet-200/scripts.
+This path structure is just because this is part of my summer work and
+didn't want to spend too much time reorganizing the paths for this repo.
